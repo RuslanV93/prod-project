@@ -1,8 +1,6 @@
-import React from 'react';
 import { Route, Routes } from 'react-router-dom';
 import { Suspense } from 'react';
-import { MainPage } from 'pages/MainPage';
-import { AboutPage } from 'pages/AboutPage';
+
 import { routeConfig } from 'shared/config/routeConfig/routeConfig';
 
 const AppRouter = () => {
@@ -18,7 +16,7 @@ const AppRouter = () => {
                 <div className="page-wrapper">{element}</div>
               </Suspense>
             }
-          ></Route>
+          />
         ))}
       </Routes>
     </Suspense>
