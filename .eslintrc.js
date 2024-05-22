@@ -37,6 +37,7 @@ module.exports = {
     'react/jsx-props-no-spreading': 1,
     'no-shadow': 0,
     ignoreComments: true,
+    'number-max-precision': 0,
   },
   globals: {
     __IS_DEV__: true,

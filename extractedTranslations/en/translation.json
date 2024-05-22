@@ -1,5 +1,23 @@
 {
+  "About": "About",
+  "About Page": "About Page",
+  "Hello": "Hello",
+  "How are you?": "How are you?",
+  "How are you? What is your name?": "How are you? What is your name?",
+  "Language": "Language",
+  "Main": "Main",
+  "Page not found": "Page not found",
+  "PageError": "PageError",
+  "Refresh": "Refresh",
+  "Throw error": "Throw error",
+  "Toggle": "Toggle",
+  "hello": "hello",
+  "how-are-you": "how-are-you",
+  "page-not-found": "page-not-found",
+  "toggle": "toggle",
+  "Главная": "Главная",
   "Главная страница": "Главная страница",
   "О сайте": "О сайте",
+  "Страница не найдена": "Страница не найдена",
   "Язык": "Язык"
 }

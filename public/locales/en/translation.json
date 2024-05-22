@@ -1,5 +1,12 @@
 {
-  "Тестовый пример": "Test case",
-  "Перевод": "Tranlsate",
-  "Язык": "English"
+  "Translate": "Tranlsate",
+  "Language": "English",
+  "Page not found": "Page Not Found",
+  "Loading": "Loading",
+  "About": "About Page",
+  "Main": "Home Page",
+  "Toggle": "Toggle",
+  "PageError": "Something went wrong.",
+  "Refresh": "Refresh the page",
+  "Throw error": "Throw error."
 }
